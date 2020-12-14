@@ -1,4 +1,4 @@
-# clue-access
+![clue-access](clue-access.png)
 
 ## How it works?
 
