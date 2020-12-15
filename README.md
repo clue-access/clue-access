@@ -26,9 +26,12 @@ More sponsors mean we can spend more time on open-source.
 
 ## Projects
 
-Overview of all projects currently in **clue·access**:
+* [**clue/reactphp-pq**](https://github.com/clue/reactphp-pq) - PQ ("peak"),
+automatically wrap blocking functions in an async child process and
+turn blocking functions into non-blocking promises, built on top of [ReactPHP](https://reactphp.org).
 
-* *To be announced* 🤫 If you're impatient, follow us on Twitter.
+
+* **To be announced** 🤫 - If you're impatient, follow us on Twitter.
 
 ## You want to be part of clue·access? Become a sponsor!
 
