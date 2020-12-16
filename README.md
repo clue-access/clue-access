@@ -27,11 +27,13 @@ More sponsors mean we can spend more time on open-source.
 ## Projects
 
 * [**clue/reactphp-pq**](https://github.com/clue/reactphp-pq) - PQ ("peak"),
-automatically wrap blocking functions in an async child process and
-turn blocking functions into non-blocking promises, built on top of [ReactPHP](https://reactphp.org).
+  automatically wrap blocking functions in an async child process and
+  turn blocking functions into non-blocking promises, built on top of [ReactPHP](https://reactphp.org).
 
+* [**clue/reactphp-tsv**](https://github.com/clue/reactphp-tsv) - Streaming TSV (Tab-Separated Values)
+  parser and encoder for [ReactPHP](https://reactphp.org).
 
-* **To be announced** 🤫 - If you're impatient, follow us on Twitter.
+* **More to be announced** 🤫 - If you're impatient, follow us on Twitter.
 
 ## You want to be part of clue·access? Become a sponsor!
 
