@@ -28,13 +28,17 @@ More sponsors mean we can spend more time on open-source.
 
 * [**clue/reactphp-pq**](https://github.com/clue/reactphp-pq) –
   PQ ("peak"), automatically wrap blocking functions in an async child process and turn blocking functions into non-blocking promises,
-  built on top of [ReactPHP](https://reactphp.org).
+  built on top of [ReactPHP](https://reactphp.org/).
 
 * [**clue/reactphp-tsv**](https://github.com/clue/reactphp-tsv) –
-  Streaming TSV (Tab-Separated Values) parser and encoder for [ReactPHP](https://reactphp.org).
+  Streaming TSV (Tab-Separated Values) parser and encoder for [ReactPHP](https://reactphp.org/).
 
 * [**clue/make.php**](https://github.com/clue/make.php) –
   A GNU Make clone written in pure PHP. Run your Makefiles no matter whether GNU make is available.
+
+* [**clue/reactphp-s3**](https://github.com/clue/reactphp-s3) –
+  Async S3 filesystem API (supporting Amazon S3, Ceph, MiniIO, DigitalOcean Spaces and others),
+  built on top of [ReactPHP](https://reactphp.org/).
 
 * **More to be announced** 🤫 –
   If you're impatient, follow us on Twitter.
