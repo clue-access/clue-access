@@ -40,6 +40,9 @@ More sponsors mean we can spend more time on open-source.
   Async S3 filesystem API (supporting Amazon S3, Ceph, MiniIO, DigitalOcean Spaces and others),
   built on top of [ReactPHP](https://reactphp.org/).
 
+* [**clue/reactphp-clickhouse**](https://github.com/clue/reactphp-clickhouse) –
+  Blazing fast access to your ClickHouse database, built on top of [ReactPHP](https://reactphp.org/).
+
 * **More to be announced** 🤫 –
   If you're impatient, follow us on Twitter.
 
