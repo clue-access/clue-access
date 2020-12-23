@@ -43,6 +43,10 @@ More sponsors mean we can spend more time on open-source.
 * [**clue/reactphp-clickhouse**](https://github.com/clue/reactphp-clickhouse) –
   Blazing fast access to your ClickHouse database, built on top of [ReactPHP](https://reactphp.org/).
 
+* [**clue/reactphp-memoize**](https://github.com/clue/reactphp-memoize) –
+  Automatically memoize async function calls by caching function results,
+  built on top of [ReactPHP](https://reactphp.org/).
+
 * **More to be announced** 🤫 –
   If you're impatient, follow us on Twitter.
 
