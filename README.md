@@ -64,6 +64,27 @@ We invest a lot of time developing, maintaining and updating our awesome open-so
 
 Let's take these great projects to the next level together.
 
+## FAQ
+
+**How do I access clue·access projects?** – 
+*If your sponsorship is started, you will be invited to join clue·access on GitHub and become part of our sponsor team. This means that all the projects in clue·access are available to you.*
+
+**How long does it take to get access?** –
+*We first have to manually invite you via email, we strive to make this happen within an hour. If your sponsorship is started at our bedtime, it may take a little longer.*
+
+**How long do I benefit from clue·access?** –
+*You have access for as long as your sponsorship is active. If you cancel your sponsorship, you will
+get access until the end of the payment period.*
+
+**When do new projects get added to clue·access?** –
+*We have endless projects in the pipeline, which will be progressively added to clue·access.*
+
+**How long do projects remain part of clue·access?** –
+*The projects remain until the final release. This is usually followed by a new project in clue·access.*
+
+**Where can I learn more about clue·access?** –
+*Find out more about us through [our blog](https://clue.engineering/2020/introducing-clue-access) or take a look at our [sponsoring page](https://github.com/sponsors/clue).*
+
 ## Feedback?
 
 Send a tweet to [@another_clue](https://twitter.com/another_clue).
