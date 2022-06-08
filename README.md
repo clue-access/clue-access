@@ -26,11 +26,6 @@ More sponsors mean we can spend more time on open-source.
 
 ## Projects
 
-* [**clue/framework-x**](https://github.com/clue/framework-x) –
-  Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
-
-  [![framework-x](framework-x.jpeg)](https://framework-x.clue.engineering/)
-
 * [**clue/reactphp-pq**](https://github.com/clue/reactphp-pq) –
   PQ ("peak"), automatically wrap blocking functions in an async child process and turn blocking functions into non-blocking promises,
   built on top of [ReactPHP](https://reactphp.org/).
